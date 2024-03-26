@@ -3,3 +3,16 @@ node_modules
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# GitHub Copilot persisted chat sessions
+/copilot/chatSessions
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+/.idea
